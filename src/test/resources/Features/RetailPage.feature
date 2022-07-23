@@ -5,7 +5,7 @@ Feature: Retail Page
     Given User is on Retail websitee
     When User click  on MyAccount
     And User click on Login
-    And User enter username 'haroonsadiq1@gmail.com' and password 'sadiq123'
+    And User enter username 'wahid@gmail.com' and password 'sharifi123'
     And User click on Login button
     Then User should be logged in to MyAccount dashboard
 
